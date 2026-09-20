@@ -10,6 +10,18 @@ An interactive Power BI project benchmarking **Transcorp Power** against selecte
 
 ---
 
+## 📊 Dashboard Preview
+
+### Executive Performance Benchmark
+
+![Nigeria Power Generation Executive Benchmark](executive-benchmark.PNG)
+
+*Executive benchmark comparing Transcorp Power with selected Nigerian generation peers across availability, capacity and operational performance.*
+
+👉 **[Open the Interactive Power BI Dashboard]([PASTE-YOUR-POWER-BI-PUBLIC-LINK-HERE](https://app.powerbi.com/view?r=eyJrIjoiNzg5ZjI5MDYtNDlhMS00ZWQ1LWIyZDgtNTkxNjcwMDllMGVjIiwidCI6ImE4ZmVlMjljLTNmNDktNDdmZC1iOTRiLWM3MzEwNjdhMTkwNiJ9))**
+
+---
+
 ## 📊 Project Overview
 
 This project investigates how effectively Transcorp Power converts its installed generation capacity into available capacity and actual generation, and how its operational performance compares with selected Nigerian peer plants.
@@ -74,6 +86,12 @@ Three illustrative improvement scenarios were modelled:
 The scenarios apply Transcorp's historical **88.46% load factor** to incremental available capacity.
 
 These scenarios are illustrative analytical estimates rather than forecasts. Actual generation would depend on factors including gas availability, grid constraints, dispatch requirements, outages and plant operating conditions.
+
+### PAF Improvement Scenario Dashboard
+
+![Transcorp Power PAF Improvement Opportunity](improvement-opportunity.PNG)
+
+*Interactive scenario modelling showing the potential capacity and generation impact of improving Transcorp Power's Plant Availability Factor.*
 
 ---
 
